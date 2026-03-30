@@ -63,8 +63,14 @@ I am passionate about learning, building, and breaking systems to understand how
 
 - Web Application Security
 - Network Penetration Testing
-- Vulnerability Assessment
 - Bug Bounty Hunting
+- Web Application Security (XSS, SQL Injection, IDOR)
+- Network Penetration Testing
+- Vulnerability Assessment & Reporting
+- Basic Digital Forensics
+- Reverse Shell
+- Session Control
+- Data Extraction
 
 ## ⚙️ Tools
 
@@ -75,7 +81,7 @@ Kali Linux | Burp Suite | Nmap | Metasploit | Wireshark | FFUF
 ✔ Payload Creation (msfvenom)  
 ✔ Reverse Shell (Metasploit)  
 ✔ Session Handling (Meterpreter)  
-✔ Post Exploitation  
+✔ Post Exploitation
 
 📌 **Learning:**  
 - Attack lifecycle (Recon → Exploit → Post Exploit)  

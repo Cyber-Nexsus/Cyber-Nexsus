@@ -1,33 +1,54 @@
-## 🚀 Featured Project
-
-👉 **Main Portfolio Repository:**  
-🔗 https://github.com/Cyber-Nexsus/shawon1982
-
 <p align="center">
-  <img src="https://github.com/Cyber-Nexsus/shawon1982/blob/master/Cyber%20Githuby.jpg" width="100%" />
+  <img src="https://github.com/Cyber-Nexsus/shawon1982/blob/master/Cyber%20Githuby.jpg" />
 </p>
 
-<h1 align="center">👨‍💻 ASM Shamimul Islam Shawon</h1>
-<h3 align="center">🚀 Cyber-Nexsus | 🔐 Cybersecurity Specialist</h3>
+<h1 align="center">ASM SHAMIMUL ISLAM SHAWON</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Ethical+Hacker;Penetration+Tester;SOC+Analyst;Bug+Bounty+Learner;SCADA+Security+Enthusiast" />
+<code>Cybersecurity Specialist</code> | 
+<code>CEH Certified</code> | 
+<code>VAPT • SOC Analyst</code>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-Visitor-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Cyber-Nexsus?style=for-the-badge&color=orange" />
-  <img src="https://img.shields.io/github/stars/Cyber-Nexsus?style=for-the-badge&color=yellow" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&size=22&center=true&vCenter=true&width=700&lines=Ethical+Hacker;Penetration+Tester;SOC+Analyst;Bug+Bounty+Researcher;SCADA+Security+Focus" />
 </p>
 
 ---
 
-## 🧠 About Me
+## [ SYSTEM PROFILE ]
 
-💻 Passionate about Cybersecurity & Ethical Hacking  
-🛡️ Focused on Web Security, Network Security & OSINT  
-🔍 Exploring SCADA / ICS Security  
-🎯 Goal: Become a Professional Security Analyst  
+```diff
++ Name      : ASM Shamimul Islam Shawon
++ Domain    : Cybersecurity
++ Focus     : Web Security | Network Pentesting | SOC
++ Status    : Active Learner
++ Objective : Offensive Security Professional
+
+---
+
+##  About Me
+
+I am a Cybersecurity Enthusiast and Certified Ethical Hacker (CEH) with a strong focus on Web Application Security and Network Penetration Testing.
+
+I have hands-on experience in vulnerability assessment, bug bounty methodologies, and real-world lab environments using tools like Kali Linux, Burp Suite, Nmap, and Metasploit.
+
+Currently, I am improving my skills in bug hunting, exploit development, and security research, with the goal of working professionally in offensive security and remote security operations. Cybersecurity practitioner with hands-on experience in vulnerability assessment, penetration testing labs, and security tooling.
+
+Focused on identifying real-world security issues in web applications and network environments, with continuous learning in offensive security and threat detection.
+
+Cybersecurity Specialist | CEH Certified | Bug Bounty Learner
+
+I specialize in identifying and exploiting security vulnerabilities in web applications and networks. With practical experience in penetration testing labs and security tools, I continuously work on improving my offensive security skills.
+
+[ CORE SKILLS ]
+Web Application Security (XSS, SQL Injection, IDOR)
+Network Penetration Testing
+Vulnerability Assessment & Reporting
+Basic Digital Forensics
+
+Goal:
+To build a strong career in cybersecurity by contributing to real-world security testing, bug bounty programs, and red team operations.
 
 ---
 ## 🎓 Certification
@@ -49,7 +70,7 @@
 
 ## ⚙️ Tools
 
-Kali Linux | Burp Suite | Nmap | Metasploit | Wireshark | FFUF | OWASP Juice Shop |
+Kali Linux | Burp Suite | Nmap | Metasploit | Wireshark | FFUF | OWASP Juice Shop | Recon-ng
 
 ## 🛠️ Tools & Technologies
 

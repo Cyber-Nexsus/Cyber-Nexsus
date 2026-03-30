@@ -1,76 +1,40 @@
 <p align="center">
-  <img src="https://github.com/Cyber-Nexsus/shawon1982/blob/master/Cyber%20Githuby.jpg" />
+  <img src="https://github.com/Cyber-Nexsus/shawon1982/blob/master/Cyber%20Githuby.jpg" width="100%" />
 </p>
 
-<h1 align="center">ASM SHAMIMUL ISLAM SHAWON</h1>
+<h1 align="center">👨‍💻 ASM Shamimul Islam Shawon</h1>
+<h3 align="center"> Cyber-Nexsus |  Cybersecurity Specialist | SOC Analyst | VAPT</h3>
 
 <p align="center">
-<code>Cybersecurity Specialist</code> | 
-<code>CEH Certified</code> | 
-<code>VAPT • SOC Analyst</code>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Ethical+Hacker;Penetration+Tester;SOC+Analyst;Bug+Bounty+Learner;SCADA+Security+Enthusiast" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&size=22&center=true&vCenter=true&width=700&lines=Ethical+Hacker;Penetration+Tester;SOC+Analyst;Bug+Bounty+Researcher;SCADA+Security+Focus" />
+  <img src="https://img.shields.io/badge/Profile%20Views-Visitor-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Cyber-Nexsus?style=for-the-badge&color=orange" />
+  <img src="https://img.shields.io/github/stars/Cyber-Nexsus?style=for-the-badge&color=yellow" />
 </p>
 
 ---
 
-## [ SYSTEM PROFILE ]
-
-```diff
-+ Name      : ASM Shamimul Islam Shawon
-+ Domain    : Cybersecurity
-+ Focus     : Web Security | Network Pentesting | SOC
-+ Status    : Active Learner
-+ Objective : Offensive Security Professional
-
----
-
-##  About Me
-
+##  About Me 
 I am a Cybersecurity Enthusiast and Certified Ethical Hacker (CEH) with a strong focus on Web Application Security and Network Penetration Testing.
 
 I have hands-on experience in vulnerability assessment, bug bounty methodologies, and real-world lab environments using tools like Kali Linux, Burp Suite, Nmap, and Metasploit.
 
-Currently, I am improving my skills in bug hunting, exploit development, and security research, with the goal of working professionally in offensive security and remote security operations. Cybersecurity practitioner with hands-on experience in vulnerability assessment, penetration testing labs, and security tooling.
+Currently, I am improving my skills in bug hunting, exploit development, and security research, with the goal of working professionally in offensive security and remote security operations.
 
-Focused on identifying real-world security issues in web applications and network environments, with continuous learning in offensive security and threat detection.
-
-Cybersecurity Specialist | CEH Certified | Bug Bounty Learner
-
-I specialize in identifying and exploiting security vulnerabilities in web applications and networks. With practical experience in penetration testing labs and security tools, I continuously work on improving my offensive security skills.
-
-[ CORE SKILLS ]
-Web Application Security (XSS, SQL Injection, IDOR)
-Network Penetration Testing
-Vulnerability Assessment & Reporting
-Basic Digital Forensics
-
-Goal:
-To build a strong career in cybersecurity by contributing to real-world security testing, bug bounty programs, and red team operations.
-
----
+I am passionate about learning, building, and breaking systems to understand how to secure them effectively.
+ 
 ## 🎓 Certification
 
-- Certified Ethical Hacker (CEH)
-- NSDA SOC VAPT Level 4 (Freelancing)
-- Advance Diploma in CSE
-- Server Administration Level 3
-- Network Admin - CCNA CCNP Microtik Level 1
-- System Support Engineering Level 2
-- Graphics Designer Adobe Family
-- 
-## 🛠️ Skills
-
-- Web Application Security
-- Network Penetration Testing
-- Vulnerability Assessment
-- Bug Bounty Hunting
-
-## ⚙️ Tools
-
-Kali Linux | Burp Suite | Nmap | Metasploit | Wireshark | FFUF | OWASP Juice Shop | Recon-ng
+- Certified Ethical Hacker (CEH) from Creative IT Institute 
+- SOC & VAPT Internship from NSDA Level 4 (Freelancing)
+- System Support Engineer from BITM (Bassis) Level 3
+- Advance Diploma In CSE from NYTA Level 2
+- Windows Server Admin & Networking from CSL Level 1
+  
+---
 
 ## 🛠️ Tools & Technologies
 
@@ -95,7 +59,16 @@ Kali Linux | Burp Suite | Nmap | Metasploit | Wireshark | FFUF | OWASP Juice Sho
 
 ---
 
-## 🔥 Featured Project
+## 🛠️ Skills
+
+- Web Application Security
+- Network Penetration Testing
+- Vulnerability Assessment
+- Bug Bounty Hunting
+
+## ⚙️ Tools
+
+Kali Linux | Burp Suite | Nmap | Metasploit | Wireshark | FFUF
 
 ### 📱 Android Exploitation Lab
 
@@ -118,7 +91,7 @@ Kali Linux | Burp Suite | Nmap | Metasploit | Wireshark | FFUF | OWASP Juice Sho
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cyber-Nexsus&show_icons=true&theme=tokyonight" />

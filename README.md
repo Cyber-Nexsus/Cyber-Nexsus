@@ -1,3 +1,8 @@
+## 🚀 Featured Project
+
+👉 **Main Portfolio Repository:**  
+🔗 https://github.com/Cyber-Nexsus/shawon1982
+
 <p align="center">
   <img src="https://github.com/Cyber-Nexsus/shawon1982/blob/master/Cyber%20Githuby.jpg" width="100%" />
 </p>
@@ -25,6 +30,26 @@
 🎯 Goal: Become a Professional Security Analyst  
 
 ---
+## 🎓 Certification
+
+- Certified Ethical Hacker (CEH)
+- NSDA SOC VAPT Level 4 (Freelancing)
+- Advance Diploma in CSE
+- Server Administration Level 3
+- Network Admin - CCNA CCNP Microtik Level 1
+- System Support Engineering Level 2
+- Graphics Designer Adobe Family
+- 
+## 🛠️ Skills
+
+- Web Application Security
+- Network Penetration Testing
+- Vulnerability Assessment
+- Bug Bounty Hunting
+
+## ⚙️ Tools
+
+Kali Linux | Burp Suite | Nmap | Metasploit | Wireshark | FFUF | OWASP Juice Shop |
 
 ## 🛠️ Tools & Technologies
 

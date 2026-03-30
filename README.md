@@ -74,7 +74,7 @@ I am passionate about learning, building, and breaking systems to understand how
 
 ## ⚙️ Tools
 
-Kali Linux | Burp Suite | Nmap | Metasploit | Wireshark | FFUF
+| Kali Linux | Burp Suite | Nmap | Metasploit | Wireshark | FFUF । Aircrack-ng । John the Ripper | 
 
 ### 📱 Android Exploitation Lab
 
@@ -94,15 +94,6 @@ Kali Linux | Burp Suite | Nmap | Metasploit | Wireshark | FFUF
 🚰 Water Tank Control Lab (OpenPLC + SCADA)  
 🔍 Modbus Traffic Analysis  
 ⚠️ Industrial Vulnerability Awareness  
-
----
-
-## 📊 GitHub Status
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cyber-Nexsus&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=Cyber-Nexsus&theme=tokyonight" />
-</p>
 
 ---
 
@@ -131,11 +122,65 @@ Kali Linux | Burp Suite | Nmap | Metasploit | Wireshark | FFUF
 
 </p>
 
+<!-- LANGUAGES AND TOOLS -->
+## 💻 Languages & Tools
+
+<div align="center">
+  <h3>🔐 Cybersecurity Tools</h3>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/John_the_Ripper-2C3E50?style=for-the-badge&logo=john-the-ripper&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aircrack--ng-6200EA?style=for-the-badge&logo=aircrack-ng&logoColor=white" />
+  
+  <h3>Programming & Scripting</h3>
+  <img src="https://skillicons.dev/icons?i=py,js,php,cpp,c,bash,powershell,kotlin" />
+  
+  <h3>Web Technologies</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,django,flutter" />
+  
+  <h3>Database & Server</h3>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres,apache" />
+  
+  <h3>DevOps & Cloud</h3>
+  <img src="https://skillicons.dev/icons?i=docker,gcp,cloudflare,github,postman" />
+  
+  <h3>Data Science & ML</h3>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  
+  <h3>Other Tools</h3>
+  <img src="https://skillicons.dev/icons?i=vscode,raspberrypi,androidstudio" />
+</div>
+
+<!-- GITHUB STATS -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cyber-Nexsus&theme=radical" />
+</div>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Cyber-Nexsus&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Nexsus&theme=radical&hide_border=true&layout=compact" />
+</div>
+
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
+  <a href="mailto:shawon1982i@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="tel:+8801912054372">
+    <img src="https://img.shields.io/badge/Phone-Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
   <a href="https://www.linkedin.com/in/shawon1982/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>

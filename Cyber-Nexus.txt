@@ -1,0 +1,55 @@
+তুমি এখনও একই জায়গায় আটকে আছ—লিংকটা “correct” মনে হলেও আসলে এটা এখনও **wrong type**।
+
+👉 তুমি দিচ্ছো:
+
+```id="srhoow"
+https://github.com/Cyber-Nexsus/Cyber-Nexsus/blob/master/cyber-github.jpg
+```
+
+এটা **GitHub page URL**, image file না—তাই README-এ দেখাবে না।
+
+---
+
+## ✅ তোমার আসল কাজের লিংক (fix করা):
+
+```html id="3hqw2x"
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cyber-Nexsus/Cyber-Nexsus/master/cyber-github.jpg" width="100%" />
+</p>
+```
+
+---
+
+## 🔥 সহজভাবে বুঝো:
+
+* `github.com/.../blob/...` ❌ (webpage)
+* `raw.githubusercontent.com/...` ✅ (actual image file)
+
+---
+
+## 🧪 দ্রুত চেক করো:
+
+এই লিংকটা browser-এ খুলে দেখো 👇
+👉 `https://raw.githubusercontent.com/Cyber-Nexsus/Cyber-Nexsus/master/cyber-github.jpg`
+
+✔ যদি শুধু image দেখায় → 100% কাজ করবে
+❌ যদি error দেয় → path/branch ভুল
+
+---
+
+## ⚠️ extra check (ignore করলে আবার problem হবে):
+
+1. Repo name: `Cyber-Nexsus` ✔
+2. Branch: `master` (নাকি `main`?)
+3. File name: `cyber-github.jpg` (case-sensitive)
+
+---
+
+## 🎯 Bottom line (no confusion):
+
+👉 তুমি ভুল link ব্যবহার করছো
+👉 শুধু `blob` → `raw` করলে problem শেষ
+
+---
+
+যদি চাও, আমি তোমার পুরো GitHub profile README professional cyber portfolio style-এ সাজিয়ে দিতে পারি—যেটা দেখলে recruiter impress হবে, শুধু image না 👍

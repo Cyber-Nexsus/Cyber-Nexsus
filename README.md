@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/Cyber-Nexsus/shawon1982/blob/master/Cyber%20Githuby.jpg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Cyber-Nexsus/shawon1982/master/Cyber%20Githuby.jpg" width="100%" />
 </p>
 
-<h1 align="center">👨‍💻 ASM Shamimul Islam Shawon</h1>
+<h1 align="center"> ASM Shamimul Islam Shawon</h1>
 <h3 align="center"> Cyber-Nexsus |  Cybersecurity Specialist | SOC Analyst | VAPT</h3>
 
 <p align="center">
